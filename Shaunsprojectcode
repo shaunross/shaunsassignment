@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en"> <title Shauns Info Page</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <h1>Hi, my name is <span id="Shaun"></span> I am a student at HU! I'm learning to code right now! I am going to Florida during spring break and it's going to be great. I am a film major and I am also a photographer.<strong I am excited to take photos and videos while I'm on vacation. I play the guitar and the drums and I'm even in a band! <br Some things I enjoy photographing are weddings, families, candid moments, street photography, and portraits.</h1> 
+  </body>
+</html>
+<body>
+  This is where I order my camera equipment from! <a href="https://www.keh.com
+                                                    img src="https://georgia.org/sites/default/files/inline-images/KEH%20Camera%201.jpg" alt="camera" width="500" height="600">
+    Here's a link to page 2! <a href="page2.html">Page 2</a>
+<page2>
+<body>
+  <h1></h1>Since you've gotten to know me a bit, I wanted to share some more info about me! I love doing couple photoshoots and traveling. It is so much fun to capture life's moments and show them to the world.</h1>
+  Here's a link back to page 1! <html lang="en"> <title Shauns Info Page</title></page2>
+<h1>Text color dark gray</h1>
